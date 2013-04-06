@@ -1,0 +1,5 @@
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Codec|SchDesignator=Codec|FileName=Codec.SchDoc|SymbolType=Normal|RawFileName=Codec.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=CPU|SchDesignator=CPU|FileName=CPU.SchDoc|SymbolType=Normal|RawFileName=CPU.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Ethnet|SchDesignator=Ethnet|FileName=Ethnet.SchDoc|SymbolType=Normal|RawFileName=Ethnet.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=SheetSymbol|SourceDocument=Top.SchDoc|Designator=Misc|SchDesignator=Misc|FileName=Misc.SchDoc|SymbolType=Normal|RawFileName=Misc.SchDoc|DesignItemId= |SourceLibraryName= |ObjectKind=Sheet Symbol|RevisionGUID= |ItemGUID= |VaultGUID= 
+Record=TopLevelDocument|FileName=Top.SchDoc
